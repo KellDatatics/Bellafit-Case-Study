@@ -18,4 +18,4 @@ The dataset used in this analysis includes:
 - Sleep monitoring data
 - Heart rate data
 
-The Complete Project is located on Kaggle 
+The Complete Project is located on Kaggle: https://www.kaggle.com/code/kmcclendon/enhancing-bellafit-case-study
