@@ -14,8 +14,7 @@ The primary objective of this case study is to:
 ## Key Insight: Total Steps Vs Calories Burned
 All charts in Data Visuals Folder.
 
-![Uploading TStepsVCalories.png…](<img width="800" height="368" alt="TStepsVCalories" src="https://github.com/user-attachments/assets/6c11161e-2ce2-4d78-b64f-91a7aa42a4cd" />
-)
+![Uploading TStepsVCalories.png…](https://github.com/KellDatatics/Bellafit-Case-Study/blob/main/Data%20Visuals/BELLAFIT%20CHARTS/TStepsVCalories.png)
 
 
 ## Dataset
