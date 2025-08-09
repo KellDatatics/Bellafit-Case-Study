@@ -12,9 +12,10 @@ The primary objective of this case study is to:
 3. Recommend actionable growth opportunities based on data analysis.
 
 ## Key Insight: Total Steps Vs Calories Burned
+All charts in Data Visuals Folder.
 
-[Chart] ![Uploading TStepsVCalories.png…]()
-All charts in Folder.
+![Uploading TStepsVCalories.png…](<img width="800" height="368" alt="TStepsVCalories" src="https://github.com/user-attachments/assets/6c11161e-2ce2-4d78-b64f-91a7aa42a4cd" />
+)
 
 
 ## Dataset
