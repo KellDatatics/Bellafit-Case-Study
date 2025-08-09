@@ -11,6 +11,12 @@ The primary objective of this case study is to:
 2. Identify key insights that can inform product development and marketing strategies for Bellafit’s Leaf device.
 3. Recommend actionable growth opportunities based on data analysis.
 
+## Key Insight: Total Steps Vs Calories Burned
+
+[Chart] ![Uploading TStepsVCalories.png…]()
+All charts in Folder.
+
+
 ## Dataset
 
 The dataset used in this analysis includes:
@@ -18,4 +24,4 @@ The dataset used in this analysis includes:
 - Sleep monitoring data
 - Heart rate data
 
-The Complete Project is located on Kaggle: https://www.kaggle.com/code/kmcclendon/enhancing-bellafit-case-study
+The Complete Project with code blocks is located on Kaggle: https://www.kaggle.com/code/kmcclendon/enhancing-bellafit-case-study
