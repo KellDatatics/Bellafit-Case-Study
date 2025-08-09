@@ -14,6 +14,7 @@ The primary objective of this case study is to:
 ## Key Insight: Total Steps Vs Calories Burned
 All charts in Data Visuals Folder.
 
+Heres an example chart from the study.  It displays the linear relationship between total steps recorded and calories burned.
 ![Uploading TStepsVCalories.png…](https://github.com/KellDatatics/Bellafit-Case-Study/blob/main/Data%20Visuals/BELLAFIT%20CHARTS/TStepsVCalories.png)
 
 
